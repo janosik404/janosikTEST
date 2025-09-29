@@ -1,5 +1,5 @@
 # janosikTEST
-<DOCTYPE!html>
+<!DOCTYPE html>
  <body>
    <img = "kotek.jpg">
  </body>
