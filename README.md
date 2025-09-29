@@ -1,2 +1,5 @@
 # janosikTEST
-nwm
+<DOCTYPE!html>
+ <body>
+   <img = "kotek.jpg">
+ </body>
