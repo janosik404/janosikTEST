@@ -2,5 +2,5 @@
 <!DOCTYPE html>
  <body>
    <p>kotek mi n dziala :(</p>
-   <img src="kotek.jpg">
+   <img src="fileicon.png">
  </body>
